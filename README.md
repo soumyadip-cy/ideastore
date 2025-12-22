@@ -1,7 +1,7 @@
 # **IdeaStore - MERN app**
 
 IdeaStore is a **MERN project** made using the **MERN Stack**.
-> Render.com hosted link: ['ideastore'](https://)
+> Render.com hosted link: ['ideastore'](https://ideastore.onrender.com)
 
 ---
 
