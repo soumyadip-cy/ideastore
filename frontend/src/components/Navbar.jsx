@@ -4,7 +4,7 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <header className='bg-black border-b border-base-content/10'>
+        <header className='bg-blue border-b-3 border-base-content/10'>
             <div className='mx-auto max-w-6xl p-4'>
                 <div className='flex items-center justify-between'>
                     <Link to={"/"}>

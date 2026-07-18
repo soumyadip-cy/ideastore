@@ -8,7 +8,7 @@ import Navbar from './components/Navbar';
 
 const App = () => {
   return (
-    <div data-theme="forest" class="min-h-screen [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#042_100%)]">
+    <div data-theme="nord" class="min-h-screen bg-white [background:radial-gradient(125%_125%_at_50%_10%,#fff_40%,#63e_100%)]">
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
