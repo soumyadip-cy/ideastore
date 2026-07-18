@@ -78,7 +78,13 @@ const NoteDetailPage = () => {
 
   if (loading) {
     return (
-      <Loading message={"Fetching idea details..."} />
+      <div className='min-h-full'>
+
+        <div className='max-w-7xl mx-auto p-4 mt-6'>
+
+          <Loading message={"Fetching idea details..."} />
+        </div>
+      </div>
     );
   }
 
